@@ -4,7 +4,7 @@
 philosophy, mythology, and landscape architecture. 
 - I’m currently learning ...data science with R, basic parametric design with Vectorworks, digital 
 markdown with Obsidian, and garden ecology through a number of sources. 
-- I’m looking to collaborate on ... modeling ecological processes and methods of bringing generative design into the built environment. 
+- I’m looking to collaborate on ... anything that will improve my digital literacy.
 - How to reach me ...pwflint@duck.com, include **Github** in subject line
 
 <!---
