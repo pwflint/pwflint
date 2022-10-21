@@ -1,4 +1,5 @@
-![github_KEDbanner_lite](https://user-images.githubusercontent.com/73616669/197094027-116b15df-d71a-4147-a373-090e1eb95238.png)
+![github_KEDbanner_lite](https://user-images.githubusercontent.com/73616669/197094830-ed239b7f-c80c-4bf8-bd0c-5ed6a2a57a07.png)
+
 
 
 ##### About:
