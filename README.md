@@ -1,4 +1,4 @@
-![github_KEDbanner_lite](https://user-images.githubusercontent.com/73616669/197091575-1f2478e7-ebd0-46e6-8f96-eb77bded5f7e.png)
+<img src="https://user-images.githubusercontent.com/73616669/197091575-1f2478e7-ebd0-46e6-8f96-eb77bded5f7e.png" radius="10px">
 
 ##### About:
 - Hello, I’m Peter Flint
