@@ -1,5 +1,5 @@
 
-![github_KEDbanner_lite](https://user-images.githubusercontent.com/73616669/197095366-a946f609-ad59-4096-a549-bedde28bcfed.png)
+![github_KEDbanner_lite](https://user-images.githubusercontent.com/73616669/197095924-7dc34e81-a8a7-49fb-85c0-05a1e51e3730.png)
 
 ##### About:
 - Hello, I’m Peter Flint
