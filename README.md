@@ -4,7 +4,7 @@
 ##### About:
 - Hello, I’m Peter Flint
 - I’m interested in horticulture, meteorology, philosophy, mythology, and landscape architecture. 
-- I’m currently drunking the AI Kool-Aid to see if it can free up more time later to focus on hardscape design and garden ecology. 
+- I’m currently drinking the AI Kool-Aid to see if it can free up more time later to focus on hardscape design and garden ecology. 
 - I’m looking to collaborate on anything that will improve overall digital literacy, engineering proficiency, and data science in general. I am happy to share my expertise in social and ecological systems thinking.
 - I can be reached at pwflint@duck.com, include **Github** in subject line
 
